@@ -3,15 +3,15 @@
 <h1 align="center">Hi , I'm Thomas</h1>
 <h3 align="center">🌐 Full-Stack Developer </h3>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **GIS & ML**
 
 - 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
 
 - 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full-Stack Development**
 
-- 📫 How to reach me **rakesh@itsrakesh.co**
+- 📫 How to reach me **nightfurry0308@gmail.com**
 
 ### 🤝 Connect with me:
 
